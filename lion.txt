@@ -2,3 +2,4 @@ lion is wild animal
 lion is very dangerous
 updated in tiger
 modified in lions
+changed in bears
